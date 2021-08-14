@@ -1,1 +1,1 @@
-# Student-s-marks-pridictor-
+# Students-marks-pridictor-
